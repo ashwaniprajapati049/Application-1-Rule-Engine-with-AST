@@ -12,7 +12,7 @@ Evaluation: The engine recursively evaluates the tree based on user input, retur
 Setup Instructions
 1.Prerequisites: Ensure Java 8 or higher is installed.
 2.Clone the Repository:
-git clone https://github.com/yourusername/rule-engine-ast.git
+git clone https://github.com/ashwaniprajapati049/rule-engine-ast.git
 cd rule-engine-ast
 3.Compile and Run:
 javac RuleEngine.java Node.java RuleEngineTest.java
